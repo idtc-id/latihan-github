@@ -7,7 +7,7 @@ Ini adalah berkas latihan untuk modul **M6 — Mengubah Dokumen Lewat Browser**.
 Kalimat di bawah ini sengaja ditulis salah. Perbaiki lewat ikon pensil di browser, lalu
 ajukan perbaikan Anda sebagai Pull Request:
 
-> IDTC menggunakan GitHub karena platform ini tidak bisa mencatat riwayat perubahan dokumen.
+> IDTC menggunakan GitHub karena platform ini mencatat riwayat setiap perubahan dokumen secara otomatis.
 
 Petunjuk: kalimat itu terbalik dari kenyataan yang dijelaskan di modul M1. Perbaiki supaya
 maknanya benar.
