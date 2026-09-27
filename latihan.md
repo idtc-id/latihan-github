@@ -1,10 +1,10 @@
 # Berkas Latihan
 
-Ini adalah berkas latihan untuk modul **M6 — Mengubah Dokumen Lewat Peramban**.
+Ini adalah berkas latihan untuk modul **M6 — Mengubah Dokumen Lewat Browser**.
 
 ## Tugas Anda
 
-Kalimat di bawah ini sengaja ditulis salah. Perbaiki lewat ikon pensil di peramban, lalu
+Kalimat di bawah ini sengaja ditulis salah. Perbaiki lewat ikon pensil di browser, lalu
 ajukan perbaikan Anda sebagai Pull Request:
 
 > IDTC menggunakan GitHub karena platform ini tidak bisa mencatat riwayat perubahan dokumen.

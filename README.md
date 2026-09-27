@@ -16,7 +16,7 @@ mencoba di repo sungguhan.
 | Modul | Latihan |
 |---|---|
 | M5 — Mencatat tugas dan usulan | Buat Issue baru di tab **Issues**, beri label, lalu tutup kembali |
-| M6 — Mengubah dokumen lewat peramban | Perbaiki kalimat di [`latihan.md`](latihan.md) dan ajukan sebagai Pull Request |
+| M6 — Mengubah dokumen lewat browser | Perbaiki kalimat di [`latihan.md`](latihan.md) dan ajukan sebagai Pull Request |
 | M7 — Menelaah dan menggabungkan | Telaah Pull Request rekan pelatihan, beri komentar, lalu gabungkan |
 
 ## Bila latihan Anda berantakan
